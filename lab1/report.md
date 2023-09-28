@@ -1,9 +1,9 @@
 Task-1
-![image](https://github.com/IvryaB/lab_reports/assets/97545088/a6f45223-8adf-4cff-bfd6-80edaa237a5f)
-![image](https://github.com/IvryaB/lab_reports/assets/97545088/730390cb-4cd0-4538-8814-ea715267f547)
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/c8f0e6f7-2c01-4a2f-b7e9-1a632e0c1dac)
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/947e94f7-323f-4539-ac3e-d184c895458b)
 Task-2
-![image](https://github.com/IvryaB/lab_reports/assets/97545088/d58695f8-f981-488a-ab3b-e2ce944f158f)
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/77b38959-55bf-40e1-83d1-822d882c9c54)
 Task-3
-![image](https://github.com/IvryaB/lab_reports/assets/97545088/a3628d2a-f3bd-445a-877e-5b504996593e)
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/fe44146f-df3a-44b1-a448-a3458057525c)
 Task-4
 https://github.com/IvryaB

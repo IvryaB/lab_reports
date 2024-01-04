@@ -1,3 +1,8 @@
-![1](https://github.com/IvryaB/lab_reports/assets/97545088/de300e2f-81b2-4787-8146-14216e9443ec)
-![2](https://github.com/IvryaB/lab_reports/assets/97545088/847b7079-47be-4c06-8094-6726e4da8554)
-![3](https://github.com/IvryaB/lab_reports/assets/97545088/2b5fca5a-ff6b-43fc-a3a7-5ea7f480b316)
+Windows RDP client
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/eacad8dd-28fa-4581-b2ac-f592d15872b8)
+Linux EC2 Instance Connect
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/55eb0727-b919-42b2-8c7b-8b0c69c1e5a8)
+Linux SSH Client
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/a14530e2-63d3-49d9-a7c1-95349d0cc0a5)
+IIS Server
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/9e57cde1-c01c-40d0-8cb0-ee86bea442d6)

@@ -6,3 +6,6 @@ Linux SSH Client
 ![image](https://github.com/IvryaB/lab_reports/assets/97545088/a14530e2-63d3-49d9-a7c1-95349d0cc0a5)
 IIS Server
 ![image](https://github.com/IvryaB/lab_reports/assets/97545088/9e57cde1-c01c-40d0-8cb0-ee86bea442d6)
+Instances
+![image](https://github.com/IvryaB/lab_reports/assets/97545088/3ca52706-6192-43d3-ae6d-8c7c6f8192f5)
+

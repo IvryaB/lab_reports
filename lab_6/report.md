@@ -1,4 +1,5 @@
 Step 1: Opening sample Terraform project
+
 Step 2: Understanding Terraform Code
 ![image](https://github.com/IvryaB/lab_reports/assets/97545088/5bfeb3f2-bf28-4d06-80f5-9890cf7962af)
 Step 3: Updating key VM settings
